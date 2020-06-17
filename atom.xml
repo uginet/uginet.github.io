@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uginet.github.io</id>
     <title>全球积分宝官网</title>
-    <updated>2020-06-17T10:32:42.699Z</updated>
+    <updated>2020-06-17T13:14:33.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uginet.github.io"/>
     <link rel="self" href="https://uginet.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://uginet.github.io/images/avatar.png</logo>
     <icon>https://uginet.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 全球积分宝官网</rights>
+    <entry>
+        <title type="html"><![CDATA[全球积分宝对于创投、基金的积极作用和意义]]></title>
+        <id>https://uginet.github.io/post/quan-qiu-ji-fen-bao-dui-yu-chuang-tou-ji-jin-de-ji-ji-zuo-yong-he-yi-yi/</id>
+        <link href="https://uginet.github.io/post/quan-qiu-ji-fen-bao-dui-yu-chuang-tou-ji-jin-de-ji-ji-zuo-yong-he-yi-yi/">
+        </link>
+        <updated>2020-06-17T12:38:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球积分宝对于创投、普通人的积极作用和意义]]></title>
+        <id>https://uginet.github.io/post/quan-qiu-ji-fen-bao-dui-yu-chuang-tou-pu-tong-ren-de-ji-ji-zuo-yong-he-yi-yi/</id>
+        <link href="https://uginet.github.io/post/quan-qiu-ji-fen-bao-dui-yu-chuang-tou-pu-tong-ren-de-ji-ji-zuo-yong-he-yi-yi/">
+        </link>
+        <updated>2020-06-17T12:38:12.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[区块链史上最丰厚的推广制度]]></title>
         <id>https://uginet.github.io/post/qu-kuai-lian-shi-shang-zui-feng-hou-de-tui-guang-zhi-du/</id>
