@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uginet.github.io</id>
     <title>全球积分宝官网</title>
-    <updated>2020-06-17T14:14:21.277Z</updated>
+    <updated>2020-06-17T14:54:24.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uginet.github.io"/>
     <link rel="self" href="https://uginet.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://uginet.github.io/images/avatar.png</logo>
     <icon>https://uginet.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 全球积分宝官网</rights>
+    <entry>
+        <title type="html"><![CDATA[信用合伙标准对于发展地方经济的积极作用]]></title>
+        <id>https://uginet.github.io/post/xin-yong-he-huo-biao-zhun-dui-yu-fa-zhan-di-fang-jing-ji-de-ji-ji-zuo-yong/</id>
+        <link href="https://uginet.github.io/post/xin-yong-he-huo-biao-zhun-dui-yu-fa-zhan-di-fang-jing-ji-de-ji-ji-zuo-yong/">
+        </link>
+        <updated>2020-06-17T14:51:17.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全球积分宝对于创投、普通人的积极作用和意义]]></title>
         <id>https://uginet.github.io/post/quan-qiu-ji-fen-bao-dui-yu-chuang-tou-pu-tong-ren-de-ji-ji-zuo-yong-he-yi-yi/</id>
