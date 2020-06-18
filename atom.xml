@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://uginet.github.io</id>
     <title>全球积分宝官网</title>
-    <updated>2020-06-17T16:14:23.453Z</updated>
+    <updated>2020-06-18T03:40:14.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uginet.github.io"/>
     <link rel="self" href="https://uginet.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://uginet.github.io/images/avatar.png</logo>
     <icon>https://uginet.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 全球积分宝官网</rights>
+    <entry>
+        <title type="html"><![CDATA[揭秘未来趋势 | 未来商业世界构想图]]></title>
+        <id>https://uginet.github.io/post/jie-mi-wei-lai-qu-shi-or-wei-lai-shang-ye-shi-jie-gou-xiang-tu/</id>
+        <link href="https://uginet.github.io/post/jie-mi-wei-lai-qu-shi-or-wei-lai-shang-ye-shi-jie-gou-xiang-tu/">
+        </link>
+        <updated>2020-06-18T03:35:45.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全球积分宝2018-2019年度现金分红公示]]></title>
         <id>https://uginet.github.io/post/quan-qiu-ji-fen-bao-2018-2019-nian-du-xian-jin-fen-hong-gong-shi/</id>
